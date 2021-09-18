@@ -4,4 +4,4 @@ module.exports = {
     title: "My Gatsby MUI Template",
   },
   plugins: [],
-};
+}
